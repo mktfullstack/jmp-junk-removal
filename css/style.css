@@ -113,6 +113,8 @@ p{
 	text-decoration:line-through;	
 }
 
+video { max-width: 80%; height: auto; }
+
 .auto-container{
 	position:static;
 	max-width:1200px;
